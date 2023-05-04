@@ -1,4 +1,4 @@
-# README - API en GraphQL de Héroes y Villanos
+# README - Ejemplo básico
 
 En este README te explicaré sobre un programa en Python que utiliza una API en GraphQL para obtener una cadena de texto a traves de un Query y hacer una mutación. Para poder ejecutar este programa, necesitarás tener las siguientes dependencias instaladas:
 
